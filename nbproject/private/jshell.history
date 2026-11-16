@@ -1,0 +1,6 @@
+VAR#>git init
+VAR#>git add .\
+	git add
+VAR#>git remote add origin https://github.com/Thartic1519-rgb/SobraBoa.git\
+	git branch -M main\
+	git push -u origin main
